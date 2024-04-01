@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T00:46:54.001Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="vOFuIaa8mIR4ncuvKHNq" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T00:49:04.007Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="VVJhYxEUmxPCr7f9XqHL" version="24.2.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1364" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -6,18 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="8pc91POuvLo0UFGLa7Yu-41" value="&lt;div&gt;Raspberry PI&lt;/div&gt;&lt;div&gt;Shairport sync&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="-120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8pc91POuvLo0UFGLa7Yu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="8pc91POuvLo0UFGLa7Yu-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8pc91POuvLo0UFGLa7Yu-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="8pc91POuvLo0UFGLa7Yu-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8pc91POuvLo0UFGLa7Yu-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="8pc91POuvLo0UFGLa7Yu-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="210" y="205" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69ecfefc5c41e42c-9" target="8pc91POuvLo0UFGLa7Yu-5">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-21" value="HEOS Speaker" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="410" width="70" height="125" as="geometry" />
+          <mxGeometry x="210" y="272.5" width="70" height="125" as="geometry" />
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-22" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.speaker;part=1;" vertex="1" parent="8pc91POuvLo0UFGLa7Yu-21">
           <mxGeometry x="0.5" width="35" height="50" relative="1" as="geometry">
@@ -144,12 +132,12 @@
           <mxGeometry x="105" y="-26.999999999999996" width="105" height="26.7" as="geometry" />
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-64" value="OTA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-66" value="Powercut without switching off, recommended or not" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="851" y="270" width="380" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="8pc91POuvLo0UFGLa7Yu-68" value="volumio alternative on denon avr and HD120 for multiroom" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8pc91POuvLo0UFGLa7Yu-68" value="&lt;div&gt;volumio alternative on denon avr and HD120 for multiroomor&lt;/div&gt;&lt;div&gt;hoes streamer on HD120&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="410" width="380" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-79" value="&lt;font color=&quot;#1c71d8&quot;&gt;DNLA DMR&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -175,16 +163,30 @@
             <mxPoint x="220" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8pc91POuvLo0UFGLa7Yu-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.592;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="8pc91POuvLo0UFGLa7Yu-82" target="8pc91POuvLo0UFGLa7Yu-30">
+        <mxCell id="8pc91POuvLo0UFGLa7Yu-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.592;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="8pc91POuvLo0UFGLa7Yu-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="-360" />
               <mxPoint x="891" y="-360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-94" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="560" y="-332" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="8pc91POuvLo0UFGLa7Yu-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="8pc91POuvLo0UFGLa7Yu-3" target="8pc91POuvLo0UFGLa7Yu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8pc91POuvLo0UFGLa7Yu-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.592;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="8pc91POuvLo0UFGLa7Yu-82" target="69ecfefc5c41e42c-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="-340" as="sourcePoint" />
+            <mxPoint x="891" y="-155" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="-360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="700" y="-400" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
