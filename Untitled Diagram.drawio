@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T00:49:04.007Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="VVJhYxEUmxPCr7f9XqHL" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T00:52:13.380Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="aEzKT9_G3nvSrBnBXeZ9" version="24.2.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1364" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="8pc91POuvLo0UFGLa7Yu-52" value="&lt;div&gt;Power amp switch&lt;/div&gt;&lt;div&gt;1.AVR pre-out&lt;/div&gt;&lt;div&gt;2. HD 120/MS120&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="255" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8pc91POuvLo0UFGLa7Yu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.463;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="8pc91POuvLo0UFGLa7Yu-30" target="8pc91POuvLo0UFGLa7Yu-13">
+        <mxCell id="8pc91POuvLo0UFGLa7Yu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.463;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;jumpSize=14;" edge="1" parent="1" source="8pc91POuvLo0UFGLa7Yu-30" target="8pc91POuvLo0UFGLa7Yu-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="140" as="targetPoint" />
           </mxGeometry>
@@ -137,7 +137,7 @@
         <mxCell id="8pc91POuvLo0UFGLa7Yu-66" value="Powercut without switching off, recommended or not" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="851" y="270" width="380" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="8pc91POuvLo0UFGLa7Yu-68" value="&lt;div&gt;volumio alternative on denon avr and HD120 for multiroomor&lt;/div&gt;&lt;div&gt;hoes streamer on HD120&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8pc91POuvLo0UFGLa7Yu-68" value="&lt;div&gt;volumio alternative on denon avr and HD120 for multiroomor&lt;/div&gt;&lt;div&gt;hoes streamer on HD120&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tidal bubbleupna strean via dlna or tidal connect or directly&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="410" width="380" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8pc91POuvLo0UFGLa7Yu-79" value="&lt;font color=&quot;#1c71d8&quot;&gt;DNLA DMR&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
